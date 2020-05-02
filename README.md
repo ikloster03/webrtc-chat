@@ -1,1 +1,1 @@
-# webrtc-chat
+# webrtc-chat - chat app
